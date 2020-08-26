@@ -1,0 +1,38 @@
+{
+  "name": "ukuli-tietomeri-web-interface",
+  "version": "1.0.0",
+  "description": "Web interface for IoT project,'",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ukuli-Data/Ukuli-Tietomeri-Web-Interface.git"
+  },
+  "keywords": [
+    "IoT",
+    "Node",
+    "JavaScript",
+    "IOTA",
+    "cryptocurrency",
+    "Arduino",
+    "Data",
+    "Analysis"
+  ],
+  "author": "Tomi Toivio",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Ukuli-Data/Ukuli-Tietomeri-Web-Interface/issues"
+  },
+  "homepage": "https://github.com/Ukuli-Data/Ukuli-Tietomeri-Web-Interface#readme",
+  "dependencies": {
+    "config-js": "^1.1.14",
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "mongodb": "^3.6.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "socket.io": "^2.3.0"
+  }
+}
